@@ -1,16 +1,18 @@
-### Hi there 👋
+<img src="giphy.webp" width="325px" align = "right">
 
-<!--
-**jesbicaa/jesbicaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ❤ Olá, bom te ver por aqui! 
+👩‍🎓 Estudante do IFSP.<br>
+📚 Cursando o último ano do curso Técnico de Informática Integrado ao Ensino Médio.  <br>
+👩‍💻 Programadora. <br>
+⌨ À 3 anos estudando programação. <br>
+🧰 Atualmente estou a procura de emprego para desenvolver experiência na área. <br><br>
+💻🤓 Amo programação e sou apaixonada por tecnologias! <br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+<center>
+  <table>
+    <tr>
+        <td><img height="200em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricarthlima&show_icons=true&theme=dark&count_private=true" /></td>
+    </tr>  
+  </table>
+</center>
