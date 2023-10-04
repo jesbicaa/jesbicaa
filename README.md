@@ -5,7 +5,7 @@
 📚 Cursando o último ano do curso Técnico de Informática Integrado ao Ensino Médio.  <br>
 👩‍💻 Programadora. <br>
 ⌨ À 3 anos estudando programação. <br>
-🧰 Atualmente estou a procura de emprego para desenvolver experiência na área. <br><br>
+🧰 Atualmente estou a procura de emprego. <br><br>
 💻🤓 Amo programação e sou apaixonada por tecnologias! <br>
 
 ---
