@@ -71,12 +71,6 @@ Aplicação backend utilizando:
 
 ---
 
-### 🎲 Mochileiros do Amor
-
-Jogo de tabuleiro personalizado criado como projeto criativo, inspirado em cultura pop, viagens e experiências pessoais.
-
----
-
 ## 📚 Atualmente estudando
 
 ```txt
