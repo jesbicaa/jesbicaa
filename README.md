@@ -9,3 +9,7 @@
 🔍 Procuro emprego na área de programação. <br><br>
 💻🤓 Amo programação e sou apaixonada por tecnologias! <br>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jesbicaa&show_icons=true&theme=radial" alt="Status do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesbicaa&layout=compact&theme=radial" alt="Linguagens mais usadas" />
+</div>
